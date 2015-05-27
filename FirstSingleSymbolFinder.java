@@ -32,7 +32,7 @@ public class FirstSingleSymbolFinder {
         }
 
         // iterate symbolsCounter
-        // return character when meet element with value == 1
+        // return character when meet element with value --> Object-marker 
         Iterator<Map.Entry<Character, Object>> iterator = symbolsCounter.entrySet().iterator();
         while(iterator.hasNext()) {
             Map.Entry<Character, Object> symbolCounter = iterator.next();
