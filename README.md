@@ -1,4 +1,4 @@
-# FirstSingleSimbolFinder
+# FirstSingleSymbolFinder
 
 1. Write code to find the First non repeated character in the String. 
 Ignore case “S” same as “s”
